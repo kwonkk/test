@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\임베디드웹\게시판만들기2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\69692790.index
+\board2\src\main\java
+C:\임베디드웹\게시판만들기2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3536836366.index
+\board2\src\main\java
